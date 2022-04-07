@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dose_indication">Dose Indication</string>
+    <string name="disease_information">Disease Information</string>
+    <string name="interactions_info">Interactions info</string>
+    <string name="drug_interaction">Drug Interaction</string>
+</resources>
